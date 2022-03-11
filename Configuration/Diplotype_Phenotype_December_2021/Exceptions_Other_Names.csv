@@ -1,0 +1,272 @@
+GENE,Variant,Class
+RYR1,c.103T>C,
+RYR1,c.130C>T,
+RYR1,c.487C>T,
+RYR1,c.488G>T,
+RYR1,c.742G>A,
+RYR1,c.742G>C,
+RYR1,c.982C>T,
+RYR1,c.1021G>A,
+RYR1,c.1021G>C,
+RYR1,c.1201C>T,
+RYR1,c.1209C>G,
+RYR1,c.1565A>C,
+RYR1,c.1589G>A,
+RYR1,c.1597C>T,
+RYR1,c.1598G>A,
+RYR1,c.1654C>T,
+RYR1,c.1840C>T,
+RYR1,c.1841G>T,
+RYR1,c.6487C>T,
+RYR1,c.6488G>A,
+RYR1,c.6502G>A,
+RYR1,c.6617C>G,
+RYR1,c.6617C>T,
+RYR1,c.7007G>A,
+RYR1,c.7042_7044delGAG,
+RYR1,c.7048G>A,
+RYR1,c.7063C>T,
+RYR1,c.7124G>C,
+RYR1,c.7282G>A,
+RYR1,c.7300G>A,
+RYR1,c.7304G>A,
+RYR1,c.7354C>T,
+RYR1,c.7360C>T,
+RYR1,c.7361G>A,
+RYR1,c.7372C>T,
+RYR1,c.7373G>A,
+RYR1,c.7522C>G,
+RYR1,c.7522C>T,
+RYR1,c.7523G>A,
+RYR1,c.9310G>A,
+RYR1,c.11969G>T,
+RYR1,c.14387A>G,
+RYR1,c.14477C>T,
+RYR1,c.14497C>T,
+RYR1,c.14512C>G,
+RYR1,c.14545G>A,
+RYR1,c.14582G>A,
+RYR1,c.14693T>C,
+CACNA1S,c.520C>T,
+CACNA1S,c.3257G>A,
+CFTR,G551D,I
+CFTR,G1244E,II
+CFTR,G1349D,II
+CFTR,G178R,II
+CFTR,G551S,II
+CFTR,S1251N,II
+CFTR,S1255P,II
+CFTR,S549N,II
+CFTR,S549R(A>C),II
+CFTR,S549R(T>G),II
+CFTR,R117H,II
+CFTR,R347H,II
+CFTR,A455E,II
+CFTR,E56K,II
+CFTR,P67L,II
+CFTR,R74W,II
+CFTR,D110E,II
+CFTR,D110H,II
+CFTR,R117C,II
+CFTR,E193K,II
+CFTR,L206W,II
+CFTR,R352Q,II
+CFTR,D579G,II
+CFTR,S945L,II
+CFTR,S977F,II
+CFTR,F1052V,II
+CFTR,K1060T,II
+CFTR,A1067T,II
+CFTR,G1069R,II
+CFTR,R1070Q,II
+CFTR,R1070W,II
+CFTR,F1074L,II
+CFTR,D1152H,II
+CFTR,D1270N,II
+CFTR,711+3A->G,II
+CFTR,E831X,II
+CFTR,3272-26A->G,II
+CFTR,3849+10kbC->T,II
+CFTR,2789+5G->A,II
+CFTR,F508del,III
+G6PD,"Minnesota,Marion,Gastonia,LeJeune",I
+G6PD,Montpellier,I
+G6PD,Mt Sinai,I
+G6PD,Munich,I
+G6PD,Nara,I
+G6PD,"Nashville,Anaheim,Portici",I
+G6PD,North Dallas,I
+G6PD,Olomouc,I
+G6PD,Omiya,I
+G6PD,Pedoplis-Ckaro,I
+G6PD,Piotrkow,I
+G6PD,Plymouth,I
+G6PD,Praha,I
+G6PD,Puerto Limon,I
+G6PD,Rehevot,I
+G6PD,Riley,I
+G6PD,Riverside,I
+G6PD,Santiago,I
+G6PD,"Santiago de Cuba,Morioka",I
+G6PD,Serres,I
+G6PD,Shinshu,I
+G6PD,Stonybrook,I
+G6PD,Sugao,I
+G6PD,Sumare,I
+G6PD,Sunderland,I
+G6PD,Suwalki,I
+G6PD,Swansea,I
+G6PD,Telti/Kobe,I
+G6PD,Tenri,I
+G6PD,Tomah,I
+G6PD,Tondela,I
+G6PD,Torun,I
+G6PD,Tsukui,I
+G6PD,Urayasu,I
+G6PD,Utrecht,I
+G6PD,Vancouver,I
+G6PD,Villeurbanne,I
+G6PD,Volendam,I
+G6PD,Wayne,I
+G6PD,West Virginia,I
+G6PD,Wexham,I
+G6PD,Wisconsin,I
+G6PD,Covao do Lobo,I
+G6PD,Durham,I
+G6PD,Figuera da Foz,I
+G6PD,Fukaya,I
+G6PD,Georgia,I
+G6PD,202G>A_376A>G_1264C>G,I
+G6PD,Aachen,I
+G6PD,Alhambra,I
+G6PD,Amiens,I
+G6PD,Amsterdam,I
+G6PD,Arakawa,I
+G6PD,Asahikawa,I
+G6PD,Aveiro,I
+G6PD,Bangkok,I
+G6PD,Bangkok Noi,I
+G6PD,Bari,I
+G6PD,"Beverly Hills,Genova,Iwate,Niigata,Yamaguchi",I
+G6PD,Brighton,I
+G6PD,Buenos Aires,I
+G6PD,Calvo Mackenna,I
+G6PD,Campinas,I
+G6PD,Chikugo,I
+G6PD,Cincinnati,I
+G6PD,Cleveland Corum,I
+G6PD,Clinic,I
+G6PD,Guadalajara,I
+G6PD,Harilaou,I
+G6PD,Harima,I
+G6PD,Hartford,I
+G6PD,Honiara,I
+G6PD,"Iowa,Walter Reed,Springfield",I
+G6PD,Iwatsuki,I
+G6PD,"Japan,Shinagawa",I
+G6PD,Kawasaki,I
+G6PD,Kozukata,I
+G6PD,Krakow,I
+G6PD,La Jolla,I
+G6PD,Lille,I
+G6PD,Loma Linda,I
+G6PD,Lynwood,I
+G6PD,Madrid,I
+G6PD,Manhattan,I
+G6PD,Miaoli,II
+G6PD,Mizushima,II
+G6PD,Namouru,II
+G6PD,Nankang,II
+G6PD,Naone,II
+G6PD,Nilgiri,II
+G6PD,Osaka,II
+G6PD,Partenope,II
+G6PD,Pawnee,II
+G6PD,Radlowo,II
+G6PD,Roubaix,II
+G6PD,S. Antioco,II
+G6PD,Santa Maria,II
+G6PD,Seoul,II
+G6PD,Shenzen,II
+G6PD,Songklanagarind,II
+G6PD,Surabaya,II
+G6PD,"Taipei,Chinese-3",II
+G6PD,Toledo,II
+G6PD,"Union,Maewo,Chinese-2,Kalo",II
+G6PD,Valladolid,II
+G6PD,Vanua Lava,II
+G6PD,"Viangchan,Jammu",II
+G6PD,Coimbra Shunde,II
+G6PD,Cosenza,II
+G6PD,Costanzo,II
+G6PD,Crispim,II
+G6PD,Flores,II
+G6PD,Fushan,II
+G6PD,Abeno,II
+G6PD,Acrokorinthos,II
+G6PD,Amazonia,II
+G6PD,Anadia,II
+G6PD,Ananindeua,II
+G6PD,Andalus,II
+G6PD,Bao Loc,II
+G6PD,Belem,II
+G6PD,"Canton,Taiwan-Hakka,Gifu-like,Agrigento-like",II
+G6PD,Cassano,II
+G6PD,Chatham,II
+G6PD,Chinese-1,II
+G6PD,Haikou,II
+G6PD,Hechi,II
+G6PD,Hermoupolis,II
+G6PD,Ierapetra,II
+G6PD,"Kaiping,Anant,Dhon,Sapporo-like,Wosera",II
+G6PD,Kamogawa,II
+G6PD,Liuzhou,II
+G6PD,Ludhiana,II
+G6PD,"Mediterranean,Dallas,Panama,Sassari,Cagliari,Birmingham",II
+G6PD,Mexico City,III
+G6PD,Montalbano,III
+G6PD,Murcia Oristano,III
+G6PD,Musashino,III
+G6PD,Nanning,III
+G6PD,Neapolis,III
+G6PD,Orissa,III
+G6PD,Palestrina,III
+G6PD,Quing Yuan,III
+G6PD,Rignano,III
+G6PD,Salerno Pyrgos,III
+G6PD,"Seattle,Lodi,Modena,Ferrara II,Athens-like",III
+G6PD,Sibari,III
+G6PD,Sinnai,III
+G6PD,Split,III
+G6PD,Ube Konan,III
+G6PD,A-680T_376G,III
+G6PD,A-968C_376G,III
+G6PD,Nice,III
+G6PD,Gaohe,III
+G6PD,A-202A_376G,III
+G6PD,Asahi,III
+G6PD,Aures,III
+G6PD,Bajo Maumere,III
+G6PD,Chinese-5,III
+G6PD,Guangzhou,III
+G6PD,Hammersmith,III
+G6PD,Ilesha,III
+G6PD,"Kalyan-Kerala,Jamnaga,Rohini",III
+G6PD,Kambos,III
+G6PD,"Kamiube,Keelung",III
+G6PD,Lages,III
+G6PD,Lagosanto,III
+G6PD,Mahidol,III
+G6PD,Malaga,III
+G6PD,Metaponto,III
+G6PD,Mira d'Aire,IV
+G6PD,Sao Borja,IV
+G6PD,B (Wildtype),IV
+G6PD,Insuli,IV
+G6PD,A,IV
+CYP2C9,*2,
+CYP2C9,*3,
+CYP2C9,*5,
+CYP2C9,*6,
+CYP2C9,*8,
+CYP2C9,*11,

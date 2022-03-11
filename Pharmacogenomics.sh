@@ -1,0 +1,30 @@
+#!/bin/bash
+
+set -x
+
+STARGAZER=${PWD}/Configuration/Stargazer_v1.0.8
+
+
+### folders
+CONFIG=${PWD}/Configuration
+OUTDIR=${PATHTOOUTPUT}/${SAMPLE}
+PHARMACOGENOMICS=${OUTDIR}/${SAMPLE}_PHARMACOGENOMICS_REPORT
+PHARMACOGENOMICS_ADDITIONAL=${OUTDIR}/${SAMPLE}_PHARMACOGENOMICS_SUPPLEMENTARY
+
+mkdir -p ${OUTDIR}
+mkdir -p ${PHARMACOGENOMICS}
+mkdir -p ${PHARMACOGENOMICS_ADDITIONAL}
+
+##### PHARMACOGENOMICS
+
+{
+  # FOR STARGAZER CONTROL RYR1
+  gatk DepthOfCoverage \
+    -R ${REFERENCE} \
+    -I ${BAM} \
+    -O ${PHARMACOGENOMICS_ADDITIONAL}/${SAMPLE}_target_GDF_RYR1.gdf \
+    -intervals ${CONFIG}/target_genes_RYR1.bed
+
+  rm -r ${PHARMACOGENOMICS_TEMPDIR}
+
+} 2>&1 | tee ${PHARMACOGENOMICS}/Pharmacogenomics.log
